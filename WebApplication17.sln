@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication17", "WebApplication17\WebApplication17.csproj", "{98C5E9F8-5AF6-4D8E-8F8C-AC4E86F294F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUpload.Data", "ImageUpload.Data\ImageUpload.Data.csproj", "{FDAF3BCA-08DA-421B-9CEA-91FEA0C414BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{98C5E9F8-5AF6-4D8E-8F8C-AC4E86F294F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C5E9F8-5AF6-4D8E-8F8C-AC4E86F294F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C5E9F8-5AF6-4D8E-8F8C-AC4E86F294F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAF3BCA-08DA-421B-9CEA-91FEA0C414BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAF3BCA-08DA-421B-9CEA-91FEA0C414BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAF3BCA-08DA-421B-9CEA-91FEA0C414BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAF3BCA-08DA-421B-9CEA-91FEA0C414BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
